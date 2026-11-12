@@ -45,7 +45,6 @@ Evaluate the trained model on test data using accuracy, confusion matrix, and cl
 ## PROGRAM
 
 ### Name:AKBAR.I
-
 ### Register Number:212224230014
 ```
 from google.colab import drive
@@ -197,6 +196,9 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 <img width="678" height="515" alt="image" src="https://github.com/user-attachments/assets/0093d276-f0bd-450f-9964-7f69b06ea897" />
 
 
+### New Sample Data Prediction
+
+<img width="493" height="145" alt="image" src="https://github.com/user-attachments/assets/5e39b835-a08a-4bff-9a06-cf0ec32d19e3" />
 
 
 
