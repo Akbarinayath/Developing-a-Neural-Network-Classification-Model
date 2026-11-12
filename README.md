@@ -44,9 +44,9 @@ Evaluate the trained model on test data using accuracy, confusion matrix, and cl
 
 ## PROGRAM
 
-### Name:R.Anushmalika
+### Name:AKBAR.I
 
-### Register Number:212224230020
+### Register Number:212224230014
 ```
 from google.colab import drive
 drive.mount('/content/drive')
